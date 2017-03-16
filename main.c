@@ -10,7 +10,7 @@ int main()
     int q,ch,len;
     FILE *fp;
 
-    while(q != 3)
+    while(1)
     {
         printf("\n-------------------------------------------------------------");
         printf("\n1.Enter file name\n2.Enter string\n3.Exit\n");
